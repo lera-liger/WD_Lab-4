@@ -1,0 +1,63 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    color: orange;
+}
+
+p {
+  color: purple;
+}
+
+h3 {
+    color: pink;
+}
+
+.link {
+    color: green;
+}
+
+.special-link {
+    color: blue;
+}
+
+#first-post {
+    color: orange;
+}
+
+input[placeholder="Белый"] {
+    color: white;
+}
+
+.nav-list li:nth-child(3) a{
+    color: yellow;
+}
+
+.link:hover {
+    color: lightgreen;
+}
+
+.sidebar .widget h3{
+    color: pink;
+}
+
+.sidebar .important-widget h3, .sidebar .important-widget .note {
+    color: maroon;
+}
+
+h3+ul li {
+    color: gray;
+}
+
+h3+ul li+li {
+    color: brown;
+}
+
+.highlighted {
+    color: black;
+}
+
+.submit-btn {
+    color: black;
+}
